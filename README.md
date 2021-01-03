@@ -1,3 +1,5 @@
+Notice: This project is WIP
+
 # ChudBloc
 
 People are often using services like twitter to push notifications for live
